@@ -1,4 +1,6 @@
 # cloud-itonami-isco-3513
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 3513. This app is not produced, reviewed or endorsed by the ILO.
+職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード 3513。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。
 
 **Community Network Operations** — the ISCO-08 3513 (Computer Network
 and Systems Technicians) actor, an ISCO **Wave 0** occupation per
